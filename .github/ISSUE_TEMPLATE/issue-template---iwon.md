@@ -7,10 +7,10 @@ assignees: walnutpie314
 
 ---
 
-## Content
->
+## Content : 
+> (목표,설명 등)
 ### Description
--[ ] 내용1
--[ ] 내용2
+- [ ] 내용1
+- [ ] 내용2
 
 ## ETC
